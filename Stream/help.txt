@@ -1,0 +1,46 @@
+
+Stream Trend Analysis v. 0.5
+----------
+
+
+This is the help file for Stream Trend Analysis. 
+
+This program is designed to help the user load CSV files of their stream data into program, and then provide the user with summary statistics and trend analysis. 
+
+
+File Formatting
+----------
+
+CSV files for use with Stream Trend Analysis must be in a specific format. 
+The program is designed to work with csv files that have data organized into three "columns."
+1: Index (A numerical index that provides a unique identifier for each observation in the data. This data is not currently used much in the program but is required and may be used in future versions).
+2: Temp (monthly temperature observations of the stream)
+3: Turbidity (monthly turbidity observations of the stream)
+
+The csv file should have column header titles, because the program skips the first row of csv file when inputting data. 
+
+This program is designed with monthly observations in mind, which may be used if tests for auto-correlation or seasonal mann-kendall tests are added in future versions. For version 0.5, the frequency of the observations shouldn't affect much. 
+
+Columns 1, 2 and 3 must be numeric in order for the program to load the file properly. 
+If more columns are provided, they are ignored by the program.
+
+
+Mann-Kendall Test
+----------
+This is a statistical test that detects and quantifies monotonic trends in time-series data. 
+
+The mann-kendall test is nonparametric, so it does not require that the data are normally distributed. It does require that data are not affected by autocorrelation. This is an issue for seasonal fluctuations, and is corrected with pre-processing the data to remove seasonal influence, or by using a Seasonal Mann-Kendall Test. These functions are not included in Stream Trend Analysis v. 0.5, so the assumption is that this program will be used to test streams in a tropical environment with little seasonal influence on the data (an absurd assumption). 
+
+Mann-Kendall Test Output:
+
+S: the Mann-Kendall test statistic. Larger positive indicates stronger positive trend. Large negative number indicates strong negative trend. 
+T: tau correlation coefficient, indicates strength and direction of trend on a scale from -1 to 1. 
+Z: Z-score used to evaluate the statistical significance of the trend analysis. 
+P: p value significance level, given as one of three options:"p value below .01", "p value below .05"
+, or "p value above .05"
+
+Addition information and references can be found at:
+https://www.epa.gov/sites/production/files/2016-05/documents/tech_notes_6_dec2013_trend.pdf
+
+While this program is designed with streams in mind, and the data columns are labelled as temperature and turbidity, the same summary statistics and trend analysis would apply to other applications. 
+
