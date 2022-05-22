@@ -1,0 +1,48 @@
+www.SunyUlster.org, SUNY Ulster Community College, community, college, SUNY, Stone, Ridge, NY 
+www.Mets.com, The New York Mets, baseball, team, NY
+www.MineCraft.net, A Fun Game of Blocks and Monsters, games, blocks, monsters, shelter
+www.google.com, "Google", search, engine
+www.facebook.com, "Facebook Social Networking", social, networking, games
+www.youtube.com, "Youtube Vidoes", videos, video-sharing
+www.gmail.com, "Google Email", email, messaging
+www.walmart.com, "Walmart Stores", shopping, retail
+www.netflix.com, "Netflix - Watch TV Shows Online", video, streaming
+www.msn.com, "The Microsoft Network", news
+www.cnn.com, "CNN.com Breaking News", news
+www.wikipedia.org, "Wikipedia Free Encylopedia", encylopedia, search, lookup
+www.yahoo.com, "Yahoo Internet Portal", news, email, search
+www.twitter.com, "Welcome to Twitter", Microblogging , messaging ,Social, media
+www.amazon.com, "Amazon.com: Online Shopping", shopping 
+www.microsoft.com, "Microsoft Network", computers, software, windows
+www.apple.com, "Apple Computers", computers, software, shopping
+www.adobe.com, "Adobe Systems", pdf, software
+www.ibm.com, "International Business Machines", computers, business, software
+www.aol.com, "America Online", news, email, search, messaging
+www.instagram.com, "Instragram: Capture and Share Photos", photos, social, media
+www.wordpress.com, "Wordpress", html, website, software
+www.dropbox.com, "Dropbox - Your Stuff Anywhere", photos, sharing, software
+www.flickr.com, "Welcome to Flickr Photo Sharing", photos, sharing, software
+www.nytimes.com, "The New York Times", news
+www.weather.com, "The Weather Channel", weather, news, TV
+www.bbc.com, "British Broadcasting Service", news, TV
+www.sourceforge.net, "SourceForge: Software Download", software, computers, open, source
+www.github.com, "Build Software Better together", software, download, open, source
+www.salesforce.com, "Salesforce.com CRM and Cloud Computing", online, software, sales
+www.wsj.com, "The Wall Street Journal", news, finance
+www.oracle.com, "Oracle: Hardware and Software", computers, software, Java, databases
+www.intuit.com, "Intuit: Small Business Finance Software", software, finance, business
+www.speedtest.net, "Speedtest - The Global Broadband Speed Test", internet, speed, test
+www.bestbuy.com, "Bestbuy: The Ultimate Showroom", retail, electronics, shopping
+www.dell.com, "Dell Computers", computers
+www.irs.gov, "Internal Revenue Services", taxes, refunds, finance
+www.surveymonkey.com, "Survey Monkey", survey, software
+www.doubleclick.com, "Doubleclick Advertising", advertising, retail, online
+www.tumblr.com, "Tumblr", social, media, photo, sharing
+www.paypal.com, "Welcome to Paypal", finance, software
+www.ask.com, "Ask.com", search
+www.craigslist.com, "Craigslist", classified, listings
+www.ebay.com, "eBay: Electronics, Cars, Coupons", online, retail, auction
+www.bing.com, "Bing.com", search
+www.linkedin.com, "LinkedIn: Professional Network", social, media, business, professional
+www.godaddy.com, "GoDaddy.com - Official Site", email, web, hosting, domains
+www.hbo.com, "Home Box Office", TV, video, streaming
